@@ -32,14 +32,22 @@ header {
 
   .Viajes{
     font-family: 'Rubik', sans-serif;
-    font-size: 2em;
-    color: white;
+    font-size: 3em;
+    color: cornsilk;
     float: left;
     margin: auto;
+    padding: 20px;
   }
 
   .fab{
       padding: auto;
-      color: black;
+      color:cornsilk;
+      margin: 0.75rem;
   }
   
+  .card{
+    margin: 2rem;
+    display: inline-block;
+    color: cornsilk;
+    
+  }
