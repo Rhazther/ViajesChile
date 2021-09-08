@@ -30,8 +30,16 @@ header {
       color: cornsilk;
   }
 
-  .tarjetas{
-      color: darkgrey;
+  .Viajes{
+    font-family: 'Rubik', sans-serif;
+    font-size: 2em;
+    color: white;
+    float: left;
+    margin: auto;
   }
 
+  .fab{
+      padding: auto;
+      color: black;
+  }
   
