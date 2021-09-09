@@ -6,6 +6,7 @@ body{
 .navlogoviajes{
 
     block-size: 3.5rem;
+    margin: auto;
 }
 
 header {
