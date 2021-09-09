@@ -1,7 +1,6 @@
 
 $(function(){
     $("a").click(function(event) {
-    el comportamiento predeterminado
     if (this.hash !== "") {
     event.preventDefault();
     var gato = this.hash;
